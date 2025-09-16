@@ -1,0 +1,5 @@
+{
+  "installCommand": "npm ci || npm i --no-audit --no-fund",
+  "buildCommand": "npm run build",
+  "framework": "nextjs"
+}
